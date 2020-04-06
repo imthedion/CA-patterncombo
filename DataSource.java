@@ -1,5 +1,9 @@
 package patternComboCA;
 
+//Narcisus Perejan 2016441
+//Collaborator - Amilcar Aponte 
+//https://github.com/imthedion/CA-patterncombo
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;

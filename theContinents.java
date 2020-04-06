@@ -1,5 +1,9 @@
 package patternComboCA;
 
+//Narcisus Perejan 2016441
+//Collaborator - Amilcar Aponte 
+//https://github.com/imthedion/CA-patterncombo
+
 public enum theContinents {
 	
 		AFRICA("Africa"), 
